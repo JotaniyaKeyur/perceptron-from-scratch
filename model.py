@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class PerceptronScratch:
 
     def __init__(self, w1, w2, b, lr):

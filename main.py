@@ -3,7 +3,6 @@ from model import PerceptronScratch
 from train import train
 from evaluate import evaluate
 
-
 if __name__ == "__main__":
 
     X_train, X_test, y_train, y_test = load_data("placement-dataset.csv")
